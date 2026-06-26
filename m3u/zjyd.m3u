@@ -127,6 +127,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" group-title="卫视",延边卫视
